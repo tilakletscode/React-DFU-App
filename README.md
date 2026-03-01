@@ -58,6 +58,4 @@ This repository reflects the current development version of the application.
 
 To build a clinically deployable DFU monitoring application that integrates:
 - Medical image processing
-- Role-based access control
-- Cloud-based backend services
-- Scalable architecture for institutional deployment
+- Scalable architecture for deployment
