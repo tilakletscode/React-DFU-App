@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2026 React DFU Team of JU. 
+ * All Rights Reserved.
+ * This file is part of the React DFU App project.
+ */
+
 {
   "expo": {
     "name": "DFU Severity Assessment",
