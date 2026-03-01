@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a mobile application for Diabetic Foot Ulcer (DFU) management.  
+This project is a mobile application for Diabetic Foot Ulcer (DFU) prediction.  
 
 ---
 
