@@ -1,0 +1,36 @@
+{
+  "name": "ml-healthcare-backend",
+  "version": "1.0.0",
+  "description": "Healthcare ML App Backend with Firebase Auth and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "dev-temp": "nodemon start-with-defaults.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "helmet": "^7.0.0",
+    "dotenv": "^16.3.1",
+    "mongoose": "^7.4.0",
+    "firebase-admin": "^11.9.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.1",
+    "multer": "^1.4.5-lts.1",
+    "express-rate-limit": "^6.8.1",
+    "express-validator": "^7.0.1",
+    "crypto": "^1.0.1",
+    "nodemailer": "^6.9.4",
+    "axios": "^1.4.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "jest": "^29.6.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
